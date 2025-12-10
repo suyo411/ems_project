@@ -1,0 +1,16 @@
+# Python venv
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# SQLite database file
+database/ems.db
+
+# macOS
+.DS_Store
+
+# IDE / editor
+.vscode/
+.idea/
